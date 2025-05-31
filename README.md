@@ -21,3 +21,5 @@ Setiap ruas jalan mendapatkan giliran menyala (Hijau - Kuning - Merah) secara be
 🔹 IL & ILC – Memudahkan debugging, dokumentasi, dan pemahaman logika dalam bentuk baris instruksi seperti bahasa rakitan.
 
 ⏱️ Setiap lampu dikendalikan secara presisi, menjamin sinkronisasi antar ruas dan efisiensi lalu lintas dalam simulasi.
+
+![image alt](https://github.com/BabasNapit/Traffic-Light/blob/d4fb6e770be575ac6bfad037e8622b7b1240340a/Screenshot%202025-05-31%20224839.png)
